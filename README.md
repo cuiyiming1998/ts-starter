@@ -9,4 +9,4 @@
 
 ## License
 
-[MIT](./LICENSE) License © 2022 [Young](https://github.com/cuiyiming1998)
+[MIT](./LICENSE) License © 2022 [cymYoung](https://github.com/cuiyiming1998)
